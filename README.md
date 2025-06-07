@@ -16,4 +16,4 @@ A modern, responsive web application for AI-powered mathematical and coding assi
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/advanced-ai-math-chat.git
+https://github.com/lovdadasoffcial01/simple-chat-web.git
