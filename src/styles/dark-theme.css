@@ -1,0 +1,24 @@
+[data-theme="dark"] {
+  --primary-color: #0d6efd;
+  --secondary-color: #6c757d;
+  --background-color: #121212;
+  --text-color: #e0e0e0;
+  --border-color: #2d2d2d;
+  --shadow-color: rgba(255, 255, 255, 0.1);
+  
+  /* Component specific colors */
+  --chat-bubble-user: #1a4b7c;
+  --chat-bubble-ai: #2d2d2d;
+  --input-background: #1e1e1e;
+  --code-background: #2b2b2b;
+}
+
+[data-theme="dark"] .highlight {
+  background-color: var(--code-background);
+  color: #e0e0e0;
+}
+
+[data-theme="dark"] code {
+  background-color: var(--code-background);
+  color: #e0e0e0;
+}
